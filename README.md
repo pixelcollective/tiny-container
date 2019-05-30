@@ -1,6 +1,6 @@
 # tinyblocks
 
-## Table of Contents
+## tinyblocks/container
 
 Slim, single-responsibility WordPress plugin that adds a Blade rendered container block to the WordPress 5 block editor. Kinda similar to `core/cover`.
 
