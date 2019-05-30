@@ -1,8 +1,8 @@
 {
-  "name": "tinypixel/tiny-button",
+  "name": "tinypixel/tiny-container",
   "type": "wordpress-plugin",
   "version": "0.1.0",
-  "description": "Simple lightweight button for pros to style on",
+  "description": "Simple container block to style on",
   "keywords": [
     "laravel",
     "blade",
