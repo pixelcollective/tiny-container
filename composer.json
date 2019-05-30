@@ -1,0 +1,34 @@
+{
+  "name": "tinypixel/tiny-button",
+  "type": "wordpress-plugin",
+  "version": "0.1.0",
+  "description": "Simple lightweight button for pros to style on",
+  "keywords": [
+    "laravel",
+    "blade",
+    "template",
+    "wordpress",
+    "gutenberg",
+    "blocks"
+  ],
+  "require": {
+    "php": ">=5",
+    "composer/installers": "v1.4",
+    "eftec/bladeone": "^3.24"
+  },
+  "autoload": {
+    "psr-4": {
+      "TinyPixel\\Blocks\\": "./",
+      "eftec\\bladeone\\": "./"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kelly Mears",
+      "homepage": "https://tinypixel.dev"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
